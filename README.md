@@ -12,17 +12,6 @@ I'm a Full-Stack Developer from India 🇮🇳 with hands-on experience building
 **Dev Tools**: Git, GitHub Actions, Postman, Vercel, Stripe  
 **Other**: REST APIs, Google Gemini API, CLI Tools, VS Code
 
----
-
-## 🚀 Highlighted Projects
-
-- ✈️ [**Airplane Ticket Booking**](https://github.com/PiyushPb/Airplane-Ticket-Booking): MERN-based web app for booking and managing flight tickets with a user dashboard and admin panel.
-- 🧠 [**QuizAI**](https://github.com/PiyushPb/QuizAi): AI-powered quiz generator using Google Gemini API + TypeScript + TailwindCSS.
-- 🧰 [**Dev's Toolkit (PolyPen + PixelShift)**](https://github.com/DevsToolKit): Suite of developer productivity tools — JSON to Code generator, Pixel Art editor, and more.
-- 🐦 [**Vichar (Twitter-Inspired App)**](https://github.com/PiyushPb/Vichar-Twitter-inspired-application): Full-stack social media app with Firebase auth, Stripe payments, and cloud notifications.
-- ⚡ [**LazyDeveloper CLI**](https://github.com/IndianCodingCommunity/LazyDeveloper): CLI tool to scaffold UI components in React/Next.js/React Native with themes and config options.
-
----
 
 ## 🎯 What I'm Focusing On
 
